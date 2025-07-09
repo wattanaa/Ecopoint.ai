@@ -1,0 +1,8 @@
+{
+  "name": "EcoPoint AI",
+  "description": "An intelligent recycling rewards app. Scan bottles and cans using your camera to earn points and redeem them for rewards. Powered by AI for object detection and personalized eco-tips.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
